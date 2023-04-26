@@ -1,0 +1,8 @@
+---
+version: v1
+default:
+  project: other
+  action: enforce
+  allowed_domains:
+    - api.digiflazz.com
+    - tripay.co.id
