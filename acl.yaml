@@ -7,3 +7,4 @@ default:
   allowed_domains:
     - api.digiflazz.com
     - tripay.co.id
+    - ifconfig.me
